@@ -1,4 +1,4 @@
-const calculadora = require('./calculadora.js')
+const calculadora = require('./calculadora.js').default
 
 
 try{

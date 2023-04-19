@@ -43,16 +43,15 @@ function esParOImpar (num){
     return `${num} Es impar`
 }
 
-// parametro rest para poder reutilizar la función sin importar la cantidad de paramétros ingresados.
-// .every me devuelve true en caso que todas las iteraciones sean true (todos los valores son numeros), false en caso contrario
 
 
+//con esta función verifico si los datos ingresados son números.
 function sonNumeros(...args) { 
     return args.every((arg) => typeof arg === "number"); 
   }
 
 
-  module.exports = {
+  export default {
     sumar,
     restar,
     multiplicar,
