@@ -1,0 +1,11 @@
+{
+    "nombre" : "Selección Argentina",
+    "mundialesGanados" : 3,
+    "participoDelUltimoMundial" : true,
+    "mejoresJugadores" : [
+        "Messi",
+        "Dibu Martinez",
+        "Otamendi"
+    ],
+    "directorTecnico": "Lionel Scaloni"
+}
