@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "mail": "ejemplo1@hotmail.com"
+},{
+    "id": 2,
+    "nombre": "Jorge",
+    "apellido": "Gonzalez",
+    "mail": "ejemplo2@hotmail.com"
+},{
+    "id": 3,
+    "nombre": "Pedro",
+    "apellido": "Gimenez",
+    "mail": "ejemplo3@hotmail.com"
+}, {
+    "id": 4,
+    "nombre": "Roberto",
+    "apellido": "Paez",
+    "mail": "ejemplo4@hotmail.com"
+},{
+    "id": 5,
+    "nombre": "Jose",
+    "apellido": "García",
+    "mail": "ejemplo5@hotmail.com"
+}
+]
